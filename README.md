@@ -14,5 +14,5 @@ This is a simple RESTful API for managing a "Task Manager" application built wit
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/lazim-task-manager.git
+   git clone https://github.com/sanaat/task-manager.git
    cd lazim-task-manager
